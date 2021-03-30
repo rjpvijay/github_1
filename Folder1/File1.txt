@@ -4,3 +4,4 @@ Line 3 is keyed in the VSC
 Line 4 is after staging
 Line 5 is now changed after staging
 Line 6 added after first commit
+Line 7 added in github editor on 30 march
